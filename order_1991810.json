@@ -1,0 +1,22 @@
+{
+    "design": "Inivitation",
+    "output_type": "Image",
+    "function": "Birthday",
+    "bday_name": "SEVVA",
+    "bday_age": "21",
+    "bday_date": "03/08/1999",
+    "bday_party": "Yes",
+    "bday_time": "6:00 PM",
+    "bday_venue": "HOSUR",
+    "bday_quote": "HAPPY BIRTHDAY",
+    "bday_message": "STAY BLEESED",
+    "bday_theme": "Disney Princess",
+    "bday_color": "Purple",
+    "bday_relation": "Wife",
+    "bday_invitation": "Without Photo",
+    "status": "",
+    "created_date": "2023-09-23 16:26:28",
+    "last_modified": "2023-09-23 16:26:28",
+    "order_id": "1991810",
+    "_id": "650ec45ccade1ebee39b2204"
+}

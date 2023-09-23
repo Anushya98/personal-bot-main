@@ -1,0 +1,19 @@
+{
+    "design": "Inivitation",
+    "output_type": "Image",
+    "function": "Birthday",
+    "bday_name": "Den",
+    "bday_age": "5",
+    "bday_date": "Sep 6",
+    "bday_party": "No",
+    "bday_quote": "Afgg",
+    "bday_message": "Suht",
+    "bday_theme": "Avengers",
+    "bday_color": "Pink",
+    "bday_relation": "Brother",
+    "bday_invitation": "Without Photo",
+    "status": "",
+    "created_date": "2023-09-12 15:40:30",
+    "last_modified": "2023-09-12 15:40:30",
+    "_id": "6500391664bdc143d00d8af2"
+}
